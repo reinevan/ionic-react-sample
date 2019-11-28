@@ -1,5 +1,5 @@
 {
-  "appId": "com.sample.react.ionic",
+  "appId": "io.ionic.starter",
   "appName": "ionic-react-sample",
   "bundledWebRuntime": false,
   "npmClient": "npm",
