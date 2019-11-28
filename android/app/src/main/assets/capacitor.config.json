@@ -1,0 +1,8 @@
+{
+  "appId": "com.sample.react.ionic",
+  "appName": "ionic-react-sample",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
